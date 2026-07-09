@@ -1,4 +1,4 @@
-module github.com/fadymondy/page-sections
+module github.com/togo-framework/page-sections
 
 go 1.26.4
 

@@ -2,13 +2,13 @@
 
 Per-page controllable sections: admins drag-reorder and show/hide a page's blocks and save the arrangement as the public default.
 
-- **Source:** https://github.com/fadymondy/page-sections
+- **Source:** https://github.com/togo-framework/page-sections
 - **Reference app:** https://fadymondy.com
 
 ## Install
 
 ```bash
-togo install fadymondy/page-sections
+togo install togo-framework/page-sections
 ```
 
 The plugin self-registers on blank-import (no manual wiring). See the top-level
